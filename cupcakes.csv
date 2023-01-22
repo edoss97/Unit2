@@ -1,0 +1,6 @@
+size,name,price,flavor,frosting,sprinkles,filling
+Regular,Oreo, 3.50, Oreo, Cookies and Cream, black and white, []
+Mini, Red Velvet, 2.50, Red Velvet, ButterCream, Red, [vanilla]
+Large, Chocolate Dream, 4.50, Chocolate, Chocolate, White, []
+regular, Strawberry, 3.50, Stawberry, Vanilla, Strawberry, []
+regular, Boston Cream, 4.50, plain, chocolate, N/A, [Boston Cream]

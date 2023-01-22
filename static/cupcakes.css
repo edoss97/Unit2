@@ -1,0 +1,10 @@
+h3 {
+    font-family: Arial, sans-serif;
+    color: blue;
+}
+.add_to_cart button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}

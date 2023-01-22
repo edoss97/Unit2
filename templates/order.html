@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cupcake Order Page</title>
+  </head>
+  <body>
+    <h1>Welcome to our Cupcake Order Page!</h1>
+   
+
+      <h2>Your Cart</h2>
+
+    {% for cupcake in cupcakes %}
+      <h3>{{ cupcake["name"] }}</h3>
+      <h4><b>Price: ${{ cupcake["price"] }}</b></h4>
+    {% endfor %}
+
+    <h3> </h3>
+  </body>
+</html>
